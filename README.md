@@ -17,20 +17,20 @@
 
 ### GitHub Stats
 
-![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashTiwari-nitp&show_icons=true&theme=radical)
+![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashTiwari789&show_icons=true&theme=radical)
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashTiwari-nitp&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashTiwari789&layout=compact&theme=radical)
 
 ### GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AakashTiwari-nitp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AakashTiwari789&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashTiwari-nitp&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashTiwari789&theme=radical)](https://git.io/streak-stats)
 
 ### Profile Views
 
-![Profile views counter](https://komarev.com/ghpvc/?username=AakashTiwari-nitp&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=AakashTiwari789&&style=flat-square)  
